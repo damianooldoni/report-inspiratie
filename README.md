@@ -1,2 +1,2 @@
 # report-inspiratie
-We collect reports about the INBO Inspiration Day
+We collect reports about the INBO Inspiration Day.
